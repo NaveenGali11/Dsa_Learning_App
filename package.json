@@ -10,11 +10,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
     "appcenter": "4.4.3",
     "appcenter-analytics": "4.4.3",
     "appcenter-crashes": "4.4.3",
     "react": "17.0.2",
-    "react-native": "0.67.2"
+    "react-native": "0.67.2",
+    "react-native-code-push": "^7.0.4",
+    "react-native-safe-area-context": "^3.4.1",
+    "react-native-screens": "^3.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
